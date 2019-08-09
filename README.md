@@ -14,6 +14,7 @@ Also to run the code, dataset is also provided in **`Data_set`** folder. It cont
 * **[sklearn](https://scikit-learn.org/stable/install.html)**
 * **[matplotlib 2.0+](https://matplotlib.org/users/installing.html)**
 * **[numpy](https://pypi.org/project/numpy/)**
+* **[scikit-fuzzy](https://pythonhosted.org/scikit-fuzzy/overview.html)** 
 
 
 
